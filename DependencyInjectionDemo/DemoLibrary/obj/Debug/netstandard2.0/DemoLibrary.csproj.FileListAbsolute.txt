@@ -1,0 +1,9 @@
+D:\c#\Dependency Injection Demo\DependencyInjectionDemo\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.csprojAssemblyReference.cache
+D:\c#\Dependency Injection Demo\DependencyInjectionDemo\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.AssemblyInfoInputs.cache
+D:\c#\Dependency Injection Demo\DependencyInjectionDemo\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.AssemblyInfo.cs
+D:\c#\Dependency Injection Demo\DependencyInjectionDemo\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.deps.json
+D:\c#\Dependency Injection Demo\DependencyInjectionDemo\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.dll
+D:\c#\Dependency Injection Demo\DependencyInjectionDemo\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.pdb
+D:\c#\Dependency Injection Demo\DependencyInjectionDemo\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.dll
+D:\c#\Dependency Injection Demo\DependencyInjectionDemo\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.pdb
+D:\c#\Dependency Injection Demo\DependencyInjectionDemo\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.csproj.CoreCompileInputs.cache
